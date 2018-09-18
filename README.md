@@ -2,8 +2,14 @@
 In this project I set up a server to host my catalog website.
 
 ## >Access data:
-#### Public IP: 34.222.131.32
+#### Public IP: 50.112.59.196
 #### SSH port: 2200
+#### SSH key:
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC5/QWjpy3P59l9RGqH3hgo4sjDZFyhYGyNCwfE8lcSCJfw0WzQzg
+QAWrFFY5Jl/zW6MzN4Novn4zJ2Zk//W9HjM620vNHh2hZjBrEP4+2FkQOqTjpyQoZxO1ZVx3Q26tLENrFsgTW7D6oN
+rKVo3IEXJnEZjgSeL1sK7yZcMNt2PX16VpANjRqc5Fn20Z/yuBGsH0zjK6jBYmsj2yWF666uoTL0xKdgMntb2ouB0b
+6KfQZ7LnyOgQy2svS8vU4dDt2ioQgFdLbKYzDt51IgSpit8GLz2vNDFnA9iASrFQWo6tJWFJY614ZuUO7q2CRZ3O+Q
+F+oHfwbQrM0v8AJwp57b ubuntu@ip-172-26-3-151
 
 
 ## Softwares and steps:
