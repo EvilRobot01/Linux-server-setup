@@ -4,6 +4,7 @@ In this project I set up a server to host my catalog website.
 ## >Access data:
 #### Public IP: 50.112.59.196
 #### SSH port: 2200
+#### Any Password requested: robot
 #### SSH key:
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC5/QWjpy3P59l9RGqH3hgo4sjDZFyhYGyNCwfE8lcSCJfw0WzQzg
 QAWrFFY5Jl/zW6MzN4Novn4zJ2Zk//W9HjM620vNHh2hZjBrEP4+2FkQOqTjpyQoZxO1ZVx3Q26tLENrFsgTW7D6oN
