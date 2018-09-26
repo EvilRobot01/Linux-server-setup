@@ -2,7 +2,7 @@
 In this project I set up a server to host my catalog website.
 
 ## >Access data:
-#### Public IP: 50.112.59.196
+#### Public IP: 34.222.251.54
 #### SSH port: 2200
 #### Any Password requested: robot
 #### SSH key:
