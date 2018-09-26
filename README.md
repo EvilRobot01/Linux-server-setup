@@ -60,3 +60,14 @@ oSw3kNhOS62PK4xZ7FYMrIIQtu+4zsOYcS7q/6ee7+/nija2ioaRMHk=
 12.Configure and enable a new virtual host.
 
 13.Install and configure PostgreSQL
+
+
+## Resources:
+1.[Ask Ubuntu](https://askubuntu.com/)
+
+2.[UFW, Ubuntu Documentation](https://help.ubuntu.com/community/UFW)
+
+3.[LAMP, Udacity](https://blog.udacity.com/2015/03/step-by-step-guide-install-lamp-linux-apache-mysql-python-ubuntu.html)
+
+4.[Setup Flask App, DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
+
